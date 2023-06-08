@@ -1,4 +1,4 @@
-# Responsive-Pricing-Table-Showcase---Media-Queries-and-Flexbox
+# Responsive Pricing Table Showcase Using Media Queries and Flexbox
 
 <h3 align="center"><b>Pricing Table</b></h3>
 <br>
