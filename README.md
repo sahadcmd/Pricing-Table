@@ -40,10 +40,6 @@ This is a responsive pricing table design which was created during a web develop
 
 ## Author
 
-<div align="center">
-
-<a href="https://linkedin.com/in/sahadmahaboobp/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  sahadmahaboobp-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
-</a>
-
-</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
